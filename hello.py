@@ -1,4 +1,5 @@
 members = [
+    "Ken Li",
 ]
 
 print(f"Hello, World! Our group members are: [{', '.join(members)}]")
