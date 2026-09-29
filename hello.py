@@ -2,7 +2,7 @@ add-Harry-Chen
 members = ["Harry Chen"
 
 members = [
-    "Ken Li",
+    "Ken Li", "Maxtin Hart"
 main
 ]
 
