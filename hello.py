@@ -1,8 +1,7 @@
 add-Harry-Chen
-members = ["Harry Chen"
 
 members = [
-    "Ken Li", "Maxtin Hart"
+    "Ken Li", "Maxtin Hart", Harry Chen"
 main
 ]
 
